@@ -1,0 +1,1 @@
+([('main', '/Users/xuliyun/Qt/Jenkins Execution/dist/main', 'EXECUTABLE')],)

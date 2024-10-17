@@ -1,0 +1,2110 @@
+('/Users/xuliyun/Qt/Jenkins Execution/build/main/main.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/Users/xuliyun/Qt/Jenkins Execution/build/main/PYZ-00.pyz',
+   'PYZ'),
+  ('lib-dynload/_struct.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/zlib.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('struct',
+   '/Users/xuliyun/Qt/Jenkins Execution/build/main/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/build/main/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/build/main/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/build/main/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyInstaller/hooks/rthooks/pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('main', '/Users/xuliyun/Qt/Jenkins Execution/main.py', 'PYSOURCE'),
+  ('playwright/driver/node',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/node',
+   'BINARY'),
+  ('Python.framework/Versions/3.9/Python',
+   '/Library/Frameworks/Python.framework/Versions/3.9/Python',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqsvg.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqsvg.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqmacheif.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqmacheif.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqtga.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqtga.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqminimal.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/platforms/libqminimal.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqwbmp.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqwbmp.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqico.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqico.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqgif.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqgif.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqoffscreen.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/platforms/libqoffscreen.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/iconengines/libqsvgicon.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/iconengines/libqsvgicon.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqjpeg.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqjpeg.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/platforms/libqcocoa.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/platforms/libqcocoa.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqwebp.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqwebp.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqtiff.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqtiff.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqicns.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqicns.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/generic/libqtuiotouchplugin.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/generic/libqtuiotouchplugin.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqpdf.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqpdf.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/imageformats/libqmacjp2.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/imageformats/libqmacjp2.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/plugins/styles/libqmacstyle.dylib',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/plugins/styles/libqmacstyle.dylib',
+   'BINARY'),
+  ('lib-dynload/_lzma.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_lzma.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bz2.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_bz2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/grp.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/grp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/binascii.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/binascii.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/unicodedata.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/unicodedata.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_datetime.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_datetime.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/math.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/math.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/array.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/array.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/select.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/select.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_socket.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_socket.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_statistics.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_statistics.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_contextvars.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_contextvars.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_decimal.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_decimal.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_pickle.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_pickle.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_hashlib.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_hashlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha3.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha3.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_blake2.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_blake2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha256.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha256.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_md5.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_md5.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha1.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha1.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_sha512.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha512.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_random.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_random.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_bisect.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_bisect.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_csv.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_csv.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/resource.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/resource.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixshmem.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_posixshmem.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/pyexpat.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/pyexpat.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_scproxy.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_scproxy.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/termios.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/termios.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ssl.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_ssl.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/mmap.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/mmap.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_ctypes.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_ctypes.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_queue.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_queue.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_opcode.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_opcode.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_heapq.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_heapq.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_asyncio.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_asyncio.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_uuid.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_uuid.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('lib-dynload/_json.cpython-39-darwin.so',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload/_json.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('greenlet/_greenlet.cpython-39-darwin.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/greenlet/_greenlet.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PyQt6/QtGui.abi3.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/QtGui.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/QtDBus.abi3.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/QtDBus.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/sip.cpython-39-darwin.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/sip.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PyQt6/QtCore.abi3.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/QtCore.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/QtWidgets.abi3.so',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/QtWidgets.abi3.so',
+   'EXTENSION'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'BINARY'),
+  ('libssl.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/libssl.1.1.dylib',
+   'BINARY'),
+  ('libcrypto.1.1.dylib',
+   '/Library/Frameworks/Python.framework/Versions/3.9/lib/libcrypto.1.1.dylib',
+   'BINARY'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus',
+   'BINARY'),
+  ('base_library.zip',
+   '/Users/xuliyun/Qt/Jenkins Execution/build/main/base_library.zip',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/stackTrace.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/stackTrace.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/third_party/bidiDeserializer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/third_party/bidiDeserializer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkWorkers.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkWorkers.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/httpServer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/httpServer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffInput.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffInput.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/tracingDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/tracingDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/dialogDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/dialogDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/index.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/index.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/stream.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/stream.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/trace/viewer/traceViewer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/trace/viewer/traceViewer.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_beta_win.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_beta_win.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/server/javascript.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/javascript.js',
+   'DATA'),
+  ('playwright/driver/package/lib/protocol/debug.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/protocol/debug.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/fetch.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/fetch.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_stable_mac.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_stable_mac.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/types.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/types.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/pipeTransport.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/pipeTransport.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffBrowser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffBrowser.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_beta_win.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_beta_win.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkProvisionalPage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkProvisionalPage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/clientHelper.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/clientHelper.js',
+   'DATA'),
+  ('playwright/driver/package/LICENSE',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/LICENSE',
+   'DATA'),
+  ('playwright/driver/package/lib/client/consoleMessage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/consoleMessage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/debugControllerDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/debugControllerDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/uiMode.DdEQ0QhM.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/uiMode.DdEQ0QhM.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/browserContextDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/browserContextDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/browserType.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/browserType.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/android.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/android.js',
+   'DATA'),
+  ('playwright/driver/package/browsers.json',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/browsers.json',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/expectUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/expectUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/embedded.Bo_JtCyn.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/embedded.Bo_JtCyn.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/playwright.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/playwright.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/download.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/download.js',
+   'DATA'),
+  ('playwright/driver/package/lib/cli/driver.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/cli/driver.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/types.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/types.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiBrowser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiBrowser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/connection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/connection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/browserDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/browserDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffPage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffPage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/electron.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/electron.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/instrumentation.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/instrumentation.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkExecutionContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkExecutionContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crConnection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crConnection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/browser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/browser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/codicon.DCmgc-ay.ttf',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/codicon.DCmgc-ay.ttf',
+   'DATA'),
+  ('playwright/driver/package/lib/server/progress.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/progress.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crExecutionContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crExecutionContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/browserType.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/browserType.js',
+   'DATA'),
+  ('playwright/driver/package/lib/protocol/validatorPrimitives.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/protocol/validatorPrimitives.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_dev_linux.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_dev_linux.sh',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_stable_linux.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_stable_linux.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/ascii.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/ascii.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/playwright.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/playwright.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/recorderRunner.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/recorderRunner.js',
+   'DATA'),
+  ('playwright/driver/package/api.json',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/api.json',
+   'DATA'),
+  ('playwright/driver/package/lib/client/clientInstrumentation.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/clientInstrumentation.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/frameDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/frameDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/usKeyboardLayout.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/usKeyboardLayout.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crBrowser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crBrowser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crPage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crPage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/registry/dependencies.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/registry/dependencies.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiNetworkManager.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiNetworkManager.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/semaphore.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/semaphore.js',
+   'DATA'),
+  ('playwright/driver/package/types/structs.d.ts',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/types/structs.d.ts',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/dispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/dispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/protocolError.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/protocolError.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/wsServer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/wsServer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/cookieStore.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/cookieStore.js',
+   'DATA'),
+  ('playwright/driver/package/lib/common/timeoutSettings.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/common/timeoutSettings.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crInput.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crInput.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/fileUploadUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/fileUploadUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/throttledFile.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/throttledFile.js',
+   'DATA'),
+  ('playwright/driver/package/lib/inprocess.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/inprocess.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/python.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/python.js',
+   'DATA'),
+  ('playwright/driver/package/lib/cli/programWithTestStub.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/cli/programWithTestStub.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/index.BRZXsPsq.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/index.BRZXsPsq.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/assets/codeMirrorModule-Dg-JD506.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/assets/codeMirrorModule-Dg-JD506.js',
+   'DATA'),
+  ('playwright/driver/package/cli.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/cli.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/screenshotter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/screenshotter.js',
+   'DATA'),
+  ('playwright/driver/package/package.json',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/package.json',
+   'DATA'),
+  ('playwright/driver/package/lib/client/events.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/events.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/waiter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/waiter.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffConnection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffConnection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/electronDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/electronDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/javascript.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/javascript.js',
+   'DATA'),
+  ('playwright/driver/package/lib/generated/recorderSource.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/generated/recorderSource.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/trace/recorder/snapshotterInjected.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/trace/recorder/snapshotterInjected.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/fileChooser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/fileChooser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/trace/test/inMemorySnapshotter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/trace/test/inMemorySnapshotter.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/selectorsDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/selectorsDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/deviceDescriptors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/deviceDescriptors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/launchApp.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/launchApp.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/network.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/network.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiFirefox.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiFirefox.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/browserContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/browserContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/protocol/validator.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/protocol/validator.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/videoRecorder.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/videoRecorder.js',
+   'DATA'),
+  ('playwright/driver/package/lib/generated/clockSource.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/generated/clockSource.js',
+   'DATA'),
+  ('playwright/driver/package/lib/zipBundle.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/zipBundle.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiExecutionContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiExecutionContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/frame.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/frame.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/jsHandleDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/jsHandleDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/registry/oopDownloadBrowserMain.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/registry/oopDownloadBrowserMain.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/clock.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/clock.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/network.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/network.js',
+   'DATA'),
+  ('playwright/driver/package/lib/zipBundleImpl.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/zipBundleImpl.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_beta_linux.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_beta_linux.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/index.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/index.html',
+   'DATA'),
+  ('playwright/driver/package/lib/client/tracing.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/tracing.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/assets/codeMirrorModule-ez37Vkbh.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/assets/codeMirrorModule-ez37Vkbh.css',
+   'DATA'),
+  ('playwright/driver/package/lib/server/helper.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/helper.js',
+   'DATA'),
+  ('playwright/driver/package/types/protocol.d.ts',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/types/protocol.d.ts',
+   'DATA'),
+  ('playwright/driver/package/lib/client/download.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/download.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/writableStream.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/writableStream.js',
+   'DATA'),
+  ('playwright/driver/package/bin/PrintDeps.exe',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/PrintDeps.exe',
+   'DATA'),
+  ('playwright/driver/package/lib/server/console.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/console.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/third_party/bidiKeyboard.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/third_party/bidiKeyboard.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiConnection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiConnection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/selectorParser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/selectorParser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiPage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiPage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/browserServerImpl.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/browserServerImpl.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utilsBundle.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utilsBundle.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/crypto.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/crypto.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/fileUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/fileUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/defaultFontFamilies.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/defaultFontFamilies.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/sw.bundle.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/sw.bundle.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/rtti.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/rtti.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/harRouter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/harRouter.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/networkDispatchers.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/networkDispatchers.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/registry/nativeDeps.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/registry/nativeDeps.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/jsHandle.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/jsHandle.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/chromiumSwitches.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/chromiumSwitches.js',
+   'DATA'),
+  ('playwright/py.typed',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/py.typed',
+   'DATA'),
+  ('playwright/driver/package/lib/server/frameSelectors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/frameSelectors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/locatorUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/locatorUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/jsonPipeDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/jsonPipeDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/electron/loader.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/electron/loader.js',
+   'DATA'),
+  ('playwright/driver/package/bin/install_media_pack.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/install_media_pack.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/comparators.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/comparators.js',
+   'DATA'),
+  ('playwright/driver/package/lib/remote/playwrightServer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/remote/playwrightServer.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_beta_linux.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_beta_linux.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/eventsHelper.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/eventsHelper.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/traceUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/traceUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/har/harRecorder.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/har/harRecorder.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/env.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/env.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/input.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/input.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/isomorphic/utilityScriptSerializers.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/isomorphic/utilityScriptSerializers.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/accessibility.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/accessibility.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/browserContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/browserContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/elementHandlerDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/elementHandlerDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crAccessibility.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crAccessibility.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/channelOwner.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/channelOwner.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/cdpSession.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/cdpSession.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/manualPromise.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/manualPromise.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/errors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/errors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/electron/electron.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/electron/electron.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkAccessibility.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkAccessibility.js',
+   'DATA'),
+  ('playwright/driver/package/lib/protocol/serializers.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/protocol/serializers.js',
+   'DATA'),
+  ('playwright/driver/package/lib/generated/consoleApiSource.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/generated/consoleApiSource.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/debug.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/debug.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/task.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/task.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/socksInterceptor.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/socksInterceptor.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crProtocolHelper.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crProtocolHelper.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/artifactDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/artifactDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/outofprocess.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/outofprocess.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/har/harTracer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/har/harTracer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/generated/utilityScriptSource.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/generated/utilityScriptSource.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/registry/browserFetcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/registry/browserFetcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/multimap.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/multimap.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/selectors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/selectors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffNetworkManager.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffNetworkManager.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/appIcon.png',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/appIcon.png',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/mimeType.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/mimeType.js',
+   'DATA'),
+  ('playwright/driver/LICENSE',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/LICENSE',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crCoverage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crCoverage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/debugLogger.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/debugLogger.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/uiMode.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/uiMode.html',
+   'DATA'),
+  ('playwright/driver/package/lib/client/fileChooser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/fileChooser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder.js',
+   'DATA'),
+  ('playwright/driver/package/index.mjs',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/index.mjs',
+   'DATA'),
+  ('playwright/driver/package/lib/client/browser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/browser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/chromium.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/chromium.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/userAgent.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/userAgent.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/stringUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/stringUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/android/backendAdb.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/android/backendAdb.js',
+   'DATA'),
+  ('playwright/driver/package/lib/inProcessFactory.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/inProcessFactory.js',
+   'DATA'),
+  ('playwright/driver/package/lib/third_party/diff_match_patch.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/third_party/diff_match_patch.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/assets/workbench-D5oSwIMK.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/assets/workbench-D5oSwIMK.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/profiler.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/profiler.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/headers.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/headers.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/playwright-logo.svg',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/playwright-logo.svg',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkPage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkPage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/third_party/pixelmatch.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/third_party/pixelmatch.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/processLauncher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/processLauncher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/socksClientCertificatesInterceptor.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/socksClientCertificatesInterceptor.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/codeMirrorModule.ez37Vkbh.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/codeMirrorModule.ez37Vkbh.css',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/language.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/language.js',
+   'DATA'),
+  ('playwright/driver/package/lib/image_tools/stats.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/image_tools/stats.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/zipFile.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/zipFile.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/video.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/video.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/android/android.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/android/android.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/coverage.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/coverage.js',
+   'DATA'),
+  ('playwright/driver/package/lib/remote/playwrightConnection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/remote/playwrightConnection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/jsonl.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/jsonl.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/debugController.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/debugController.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/java.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/java.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/languages.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/languages.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/debugger.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/debugger.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/bidiInput.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/bidiInput.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/index.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/index.js',
+   'DATA'),
+  ('playwright/driver/package/lib/cli/program.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/cli/program.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/input.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/input.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crDevTools.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crDevTools.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkConnection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkConnection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crPdf.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crPdf.js',
+   'DATA'),
+  ('playwright/driver/package/ThirdPartyNotices.txt',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/ThirdPartyNotices.txt',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/traceUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/traceUtils.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_beta_mac.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_beta_mac.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/index.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/index.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/artifact.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/artifact.js',
+   'DATA'),
+  ('playwright/driver/package/index.d.ts',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/index.d.ts',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/spawnAsync.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/spawnAsync.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_dev_mac.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_dev_mac.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dom.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dom.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/assets/codicon-DCmgc-ay.ttf',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/assets/codicon-DCmgc-ay.ttf',
+   'DATA'),
+  ('playwright/driver/package/lib/client/dialog.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/dialog.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/localUtilsDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/localUtilsDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/zones.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/zones.js',
+   'DATA'),
+  ('playwright/driver/package/types/types.d.ts',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/types/types.d.ts',
+   'DATA'),
+  ('playwright/driver/package/lib/client/page.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/page.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/locatorParser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/locatorParser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/third_party/bidiProtocol.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/third_party/bidiProtocol.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkInterceptableRequest.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkInterceptableRequest.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/hostPlatform.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/hostPlatform.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/urlMatch.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/urlMatch.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/assets/testServerConnection-DeE2kSzz.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/assets/testServerConnection-DeE2kSzz.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_beta_mac.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_beta_mac.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/browserTypeDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/browserTypeDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffExecutionContext.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffExecutionContext.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/streamDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/streamDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/jsonPipe.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/jsonPipe.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/playwright-logo.svg',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/playwright-logo.svg',
+   'DATA'),
+  ('playwright/driver/package/lib/client/worker.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/worker.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/writableStreamDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/writableStreamDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/embedded.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/embedded.html',
+   'DATA'),
+  ('playwright/driver/package/lib/image_tools/compare.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/image_tools/compare.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dialog.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dialog.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/timeoutRunner.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/timeoutRunner.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/formData.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/formData.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/snapshot.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/snapshot.html',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/androidDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/androidDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/NOTICE',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/NOTICE',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/recorderActions.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/recorderActions.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/artifact.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/artifact.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/recorderApp.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/recorderApp.js',
+   'DATA'),
+  ('playwright/driver/package/lib/image_tools/colorUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/image_tools/colorUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/recorderUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/recorderUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/common/types.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/common/types.js',
+   'DATA'),
+  ('playwright/driver/package/README.md',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/README.md',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_stable_linux.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_stable_linux.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crDragDrop.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crDragDrop.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/selectors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/selectors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/assets/codeMirrorModule-BN0yUF4I.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/assets/codeMirrorModule-BN0yUF4I.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/registry/index.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/registry/index.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/index.CrbWWHbf.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/index.CrbWWHbf.css',
+   'DATA'),
+  ('playwright/driver/package/lib/server/frames.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/frames.js',
+   'DATA'),
+  ('playwright/driver/README.md',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/README.md',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_dev_win.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_dev_win.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/client/api.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/api.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkInput.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkInput.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/accessibility.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/accessibility.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/firefox.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/firefox.js',
+   'DATA'),
+  ('playwright/driver/package/lib/common/socksProxy.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/common/socksProxy.js',
+   'DATA'),
+  ('playwright/driver/package/bin/README.md',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/README.md',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/assets/xtermModule-BeNbaIVa.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/assets/xtermModule-BeNbaIVa.js',
+   'DATA'),
+  ('playwright/driver/package/protocol.yml',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/protocol.yml',
+   'DATA'),
+  ('playwright/driver/package/lib/server/codegen/csharp.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/codegen/csharp.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/locator.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/locator.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_stable_win.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_stable_win.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/server/firefox/ffAccessibility.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/firefox/ffAccessibility.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/xtermModule.DSXBckUd.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/xtermModule.DSXBckUd.css',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/embedded.w7WN2u1R.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/embedded.w7WN2u1R.css',
+   'DATA'),
+  ('playwright/driver/package/lib/utilsBundleImpl/index.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utilsBundleImpl/index.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/index.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/index.html',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/assets/index-B-MT5gKo.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/assets/index-B-MT5gKo.css',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/cdpSessionDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/cdpSessionDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/pageDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/pageDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/webkit.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/webkit.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/transport.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/transport.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/linuxUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/linuxUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/protocol/transport.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/protocol/transport.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/htmlReport/index.html',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/htmlReport/index.html',
+   'DATA'),
+  ('playwright/driver/package/lib/client/localUtils.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/localUtils.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/cssTokenizer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/cssTokenizer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/workbench.DjbIuxix.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/workbench.DjbIuxix.css',
+   'DATA'),
+  ('playwright/driver/package/lib/server/webkit/wkBrowser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/webkit/wkBrowser.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/locatorGenerators.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/locatorGenerators.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/webError.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/webError.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/time.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/time.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/macEditingCommands.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/macEditingCommands.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/recorder/assets/index-DVt3E1Ef.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/recorder/assets/index-DVt3E1Ef.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crServiceWorker.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crServiceWorker.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_msedge_stable_mac.sh',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_msedge_stable_mac.sh',
+   'DATA'),
+  ('playwright/driver/package/lib/server/bidi/third_party/bidiSerializer.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/bidi/third_party/bidiSerializer.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/types.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/types.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/network.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/network.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/contextRecorder.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/contextRecorder.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/fetch.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/fetch.js',
+   'DATA'),
+  ('playwright/driver/package/lib/androidServerImpl.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/androidServerImpl.js',
+   'DATA'),
+  ('playwright/driver/package/lib/generated/injectedScriptSource.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/generated/injectedScriptSource.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/deviceDescriptorsSource.json',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/deviceDescriptorsSource.json',
+   'DATA'),
+  ('playwright/driver/package/lib/server/trace/recorder/snapshotter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/trace/recorder/snapshotter.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/recorder/recorderCollection.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/recorder/recorderCollection.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/eventEmitter.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/eventEmitter.js',
+   'DATA'),
+  ('playwright/driver/package/lib/vite/traceViewer/uiMode.D3cNFP6u.css',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/vite/traceViewer/uiMode.D3cNFP6u.css',
+   'DATA'),
+  ('playwright/driver/package/lib/utilsBundleImpl/xdg-open',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utilsBundleImpl/xdg-open',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/happy-eyeballs.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/happy-eyeballs.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/errors.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/errors.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/page.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/page.js',
+   'DATA'),
+  ('playwright/driver/package/lib/image_tools/imageChannel.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/image_tools/imageChannel.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/dispatchers/playwrightDispatcher.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/dispatchers/playwrightDispatcher.js',
+   'DATA'),
+  ('playwright/driver/package/lib/client/elementHandle.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/client/elementHandle.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/trace/recorder/tracing.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/trace/recorder/tracing.js',
+   'DATA'),
+  ('playwright/driver/package/bin/reinstall_chrome_stable_win.ps1',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/bin/reinstall_chrome_stable_win.ps1',
+   'DATA'),
+  ('playwright/driver/package/lib/server/clock.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/clock.js',
+   'DATA'),
+  ('playwright/driver/package/lib/server/chromium/crNetworkManager.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/server/chromium/crNetworkManager.js',
+   'DATA'),
+  ('playwright/driver/package/lib/utils/isomorphic/cssParser.js',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/playwright/driver/package/lib/utils/isomorphic/cssParser.js',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_gl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_gl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_en.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_uk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_sl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_sl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_nn.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_hr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_es.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_en.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_cs.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ka.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ja.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_nl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_pt_BR.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ca.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_he.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_he.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_es.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_de.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ko.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ka.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_zh_CN.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fa.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_fa.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_gd.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_gd.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_tr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ar.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_it.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_tr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_nn.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sv.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_sv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_cs.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fi.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_fi.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_it.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_tr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_tr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_uk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pt_BR.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ca.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ru.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_de.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_bg.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_pl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_gd.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_gd.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_nl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ru.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_uk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_uk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_sk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_he.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_he.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_zh_CN.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_bg.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_gl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_gl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_cs.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_cs.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_hu.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_hu.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_sk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ka.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ka.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_fi.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_fi.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_lt.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_lt.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_hu.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_hu.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_de.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_de.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_sl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_fa.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_fa.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ru.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ru.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_da.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_da.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_es.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_es.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_hr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_da.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_da.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_it.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_it.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_sk.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_sk.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_pt_PT.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_pt_PT.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_lv.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_lv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_zh_CN.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_zh_CN.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ar.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_lv.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_lv.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_nl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_nl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_zh_TW.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_zh_TW.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ko.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ca.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ca.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_ko.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_ko.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_hr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_hr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ja.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_nn.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_nn.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_pl.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_pl.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_ar.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_ar.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_zh_TW.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_zh_TW.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_fr.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_fr.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_en.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_en.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qtbase_ja.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qtbase_ja.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_bg.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_bg.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_help_pt_BR.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_help_pt_BR.qm',
+   'DATA'),
+  ('PyQt6/Qt6/translations/qt_da.qm',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/translations/qt_da.qm',
+   'DATA'),
+  ('Python', 'Python.framework/Versions/3.9/Python', 'SYMLINK'),
+  ('QtCore', 'PyQt6/Qt6/lib/QtCore.framework/Versions/A/QtCore', 'SYMLINK'),
+  ('QtGui', 'PyQt6/Qt6/lib/QtGui.framework/Versions/A/QtGui', 'SYMLINK'),
+  ('QtSvg', 'PyQt6/Qt6/lib/QtSvg.framework/Versions/A/QtSvg', 'SYMLINK'),
+  ('QtNetwork',
+   'PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'SYMLINK'),
+  ('QtPdf', 'PyQt6/Qt6/lib/QtPdf.framework/Versions/A/QtPdf', 'SYMLINK'),
+  ('QtWidgets',
+   'PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'SYMLINK'),
+  ('QtDBus', 'PyQt6/Qt6/lib/QtDBus.framework/Versions/A/QtDBus', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtCore.framework/QtCore',
+   'Versions/Current/QtCore',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtCore.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtCore.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/QtDBus',
+   'Versions/Current/QtDBus',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtDBus.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtDBus.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/QtGui', 'Versions/Current/QtGui', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtGui.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtGui.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/QtNetwork',
+   'Versions/Current/QtNetwork',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtNetwork.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtNetwork.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/QtPdf', 'Versions/Current/QtPdf', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtPdf.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtPdf.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/QtSvg', 'Versions/Current/QtSvg', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtSvg.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtSvg.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/QtWidgets',
+   'Versions/Current/QtWidgets',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/A/Resources/Info.plist',
+   '/Users/xuliyun/Qt/Jenkins '
+   'Execution/venv/lib/python3.9/site-packages/PyQt6/Qt6/lib/QtWidgets.framework/Resources/Info.plist',
+   'DATA'),
+  ('PyQt6/Qt6/lib/QtWidgets.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('Python.framework/Python', 'Versions/Current/Python', 'SYMLINK'),
+  ('Python.framework/Resources', 'Versions/Current/Resources', 'SYMLINK'),
+  ('Python.framework/Versions/3.9/Resources/Info.plist',
+   '/Library/Frameworks/Python.framework/Versions/3.9/Resources/Info.plist',
+   'DATA'),
+  ('Python.framework/Versions/Current', '3.9', 'SYMLINK')],
+ 'Python',
+ False,
+ False,
+ False,
+ [],
+ 'arm64',
+ None,
+ None)
