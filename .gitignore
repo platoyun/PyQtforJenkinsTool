@@ -1,0 +1,20 @@
+   # 忽略特定文件
+#   path/to/large/file.zip
+   playwright-browsers/chromium-1134/chrome-mac/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/129.0.6668.29/Chromium Framework
+   dist/MyTool.app/Contents/Frameworks/playwright-browsers/chromium-1134/chrome-mac/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/129.0.6668.29/Chromium Framework
+   playwright-browsers/chromium-1134/chrome-win/chrome.dll
+   dist/MyTool.app/Contents/Frameworks/playwright-browsers/chromium-1134/chrome-win/chrome.dll
+    dist/MyTool/_internal/playwright/driver/node
+    dist/MyTool.app/Contents/Frameworks/playwright/driver/node
+    build/main/main.pkg
+    playwright-browsers/chromium-1134/chrome-mac/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/129.0.6668.29/Libraries/libvk_swiftshader.dylib
+    dist/MyTool.app/Contents/Frameworks/playwright-browsers/chromium-1134/chrome-mac/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/129.0.6668.29/Libraries/libvk_swiftshader.dylib
+    playwright-browsers/chromium-1134/chrome-win/icudtl.dat
+   # 忽略特定类型的文件
+   *.log
+   *.tmp
+
+   # 忽略特定目录下的所有文件
+#   large_files_directory/
+   playwright-browsers/
+   dist/
